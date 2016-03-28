@@ -3,31 +3,65 @@ System Dynamics
 How to tighten feedback loop for learner
 How to reduce batch size
 
-# Outline
 
-## Target Audience (university student/junior employee/senior employee/open course for self-study etc)
+# Your Course Title Here
 
-## Course title:
+Here we give a general outline of the course, the content to be covered, learning outcomes etc.
 
-## General overview of the topic (a few sentences)
+### Authors
 
-## What capabilities do you want students to exhibit on completion?
+Your name here
 
-## Ordered backlog of capabilities
+### Target Audience 
 
-## How could you test for those?
+e.g. university students (particular year/degree?) / junior employees / senior employees / open course
 
-## How could students practise and demonstrate those behaviours?
+### General overview of the topic (a few sentences)
 
-## What information needs to be transmitted?
+A short paragraph outlining the content and purpose of the course.
+
+### What capabilities do you want students to exhibit on completion?
+
+* ...
+* ...
+
+### Ordered backlog of capabilities
+
+1. ...
+2. ...
+
+### How could you test for those?
+
+* ...
+* ...
+
+### How could students practise and demonstrate those behaviours?
+
+* ...
+* ...
+
+### What information needs to be transmitted?
+
+* ...
+* ...
 
 
-# System...
+# System
 
-## Format
+Here we describe the system within which learners operate. How do the receive information, how do they practise, what are the constraints and incentives that they experience causing them to learn?
 
-## Constraints and incentives
+### Format
 
-## Schedule
+Lecture? Lab? Project-based? Something else?
 
-## Class size
+### Constraints and incentives
+
+...
+
+### Schedule
+
+Weekly classes? A full-day? Multiple days? Three-month project?
+
+### Class size
+
+...
