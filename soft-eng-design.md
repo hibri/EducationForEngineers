@@ -1,14 +1,16 @@
 # Outline
 
-### Target Audience 
-
-2nd year undergraduate
+Here we give a general outline of the course, the content to be covered, learning outcomes etc.
 
 ### Course title: Software Engineering Design
 
 ### Authors
 
 Robert Chatley
+
+### Target Audience 
+
+2nd year undergraduate students
 
 ### General overview of the topic (a few sentences)
 
@@ -50,7 +52,9 @@ This course is about software design. It focusses on building software systems, 
 * ...
 
 
-# System...
+# System
+
+Here we describe the system within which learners operate. How do the receive information, how do they practise, what are the constraints and incentives that they experience causing them to learn?
 
 ### Format
 
