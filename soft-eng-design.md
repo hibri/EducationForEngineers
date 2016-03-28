@@ -3,7 +3,7 @@ System Dynamics
 How to tighten feedback loop for learner
 How to reduce batch size
 
-# Outine
+# Outline
 
 ## Target Audience (university student/junior employee/senior employee/open course for self-study etc)
 
