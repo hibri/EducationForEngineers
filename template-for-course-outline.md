@@ -1,8 +1,12 @@
-First outline
-System Dynamics
-How to tighten feedback loop for learner
-How to reduce batch size
+### How to use the template...
 
+1. Make a copy of this file and give it a new name.
+2. Go through the template and fill in your first outline for your course ideas.
+3. Think about the system dynamics you want and fill in the bottom section.
+4. Now think about optimisation - how could you tighten the feedback loop for learner so they know how they are doing and can work to improve?
+5. How could you reduce the batch size of learning, so that basic capabilities are solidified sooner, and additional capabilities can be built on top? Try to limit learning in process and minimise unnessecary transmission.
+6. Iterate until you are happy.
+7. Commit and push your changes back to GitHub. Create a pull request to include them in the main repository.
 
 # Your Course Title Here
 
