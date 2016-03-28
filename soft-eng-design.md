@@ -1,8 +1,6 @@
-# Outline
+# Software Engineering Design
 
 Here we give a general outline of the course, the content to be covered, learning outcomes etc.
-
-### Course title: Software Engineering Design
 
 ### Authors
 
